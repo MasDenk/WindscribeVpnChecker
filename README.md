@@ -2,7 +2,7 @@
   
 <div align="center">
   <a href="https://github.com/Plasmonix/MasDenk/WindscribeVpnChecker">
-    <img src="https://raw.githubusercontent.com/MasDenk/WindscribeVpnChecker/main/images.png">
+    <img src="https://raw.githubusercontent.com/MasDenk/WindscribeVpnChecker/master/images.png">
   </a>
   
   <p align="center">
